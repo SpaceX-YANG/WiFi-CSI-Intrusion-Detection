@@ -12,10 +12,8 @@
   - 基于滑动时间窗口计算 CSI 幅值的移动平均与方差，实现动态阈值入侵判定。
 
 ## 📂 仓库内容说明 (Repository Structure)
-- `csi_data_collection/` : 树莓派端网卡监听与原始 CSI 数据抓取脚本
 - `signal_processing/` : Python 数据清洗与滤波处理代码
-- `detection_algorithm/` : 核心入侵检测判定逻辑脚本
-- `docs/` : 系统架构图与实测波形效果展示 (见下方)
+- `docs/` : 数据可视化图 
 
 ## 🚀 成果与商业思考 (Business Insight)
 该项目摒弃了传统的红外或摄像头监控方案，探索了利用现有 WiFi 基础设施进行安防监控的可能性。具有无死角、保护隐私等商业潜力。展现了我从底层硬件信号提取到上层 Python 算法落地的软硬协同研发能力。
