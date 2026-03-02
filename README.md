@@ -13,7 +13,7 @@
 
 ## 📂 仓库内容说明 (Repository Structure)
 - `signal_processing/` : Python 数据清洗与滤波处理代码
-- `docs/` : 数据可视化图 
+- `CSI幅值图/` : 数据可视化图 
 
 ## 🚀 成果与商业思考 (Business Insight)
 该项目摒弃了传统的红外或摄像头监控方案，探索了利用现有 WiFi 基础设施进行安防监控的可能性。具有无死角、保护隐私等商业潜力。展现了我从底层硬件信号提取到上层 Python 算法落地的软硬协同研发能力。
